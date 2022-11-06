@@ -37,6 +37,8 @@
 * Training: 4k iterations
 * Camera position from [COLMAP](https://colmap.github.io/)
 
+####          NeRF          QRF
+
 <iframe frameborder="0" class="juxtapose" width="40%" height="264" src="./image/c1.gif"></iframe>
 <iframe frameborder="0" class="juxtapose" width="40%" height="264" src="./image/c2.gif"></iframe>
 
