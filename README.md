@@ -36,6 +36,6 @@
 * Volume rendering: Pine Tree in front of my home
 * Training: 4k iterations
 * Camera position from [COLMAP](https://colmap.github.io/)
-<img style="float: left;" src="./image/c1.gif" width="100%" title="NeRF">
-<img style="float: left;" src="./image/c2.gif" width="100%" title="QRF">
+<img style="float: left;" src="./image/c1.gif" width="50%" title="NeRF">
+<img style="float: left;" src="./image/c2.gif" width="50%" title="QRF">
 
