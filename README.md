@@ -37,5 +37,5 @@
 * Training: 4k iterations
 * Camera position from [COLMAP](https://colmap.github.io/)
 
-<img style="float: left;" src="./image/c1.gif" width="50%" title="NeRF"><img style="float: left;" src="./image/c2.gif" width="50%" title="QRF">
+<img style="float: left;" src="./image/c1.gif" width="30%" title="NeRF"><img style="float: left;" src="./image/c2.gif" width="30%" title="QRF">
 
