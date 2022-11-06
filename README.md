@@ -4,15 +4,13 @@
 ## NeRF vs QRF
 * NeRF: given a 3D position (x, y, z), viewing direction (θ, ϕ), NeRF produces static and transient colors (r, g, b) and transparency values (σ).
 * QRF: architecture replaces the same task with encoding circuit, parameterized quantum circuits, and quantum activation.
-<br>
+
 <img style="float: left;" src="./image/method.png" width="70%">
 
-<br>
 ## QRF Architecture
 * Quantum Radiance Fields (QRF) with encoding circuits and quantum circuits produces colors (r, g, b) and transparency values (σ) given a 3D position (x, y, z) and viewing direction (θ, ϕ). Similar to the NeRF architecture, QRF enforces that the predicted σ is independent of view direction. Note that this schematic is a simplified quantum circuit with only 4 rotation gates around the z axis.
-<br>
+
 <img style="float: left;" src="./image/architecture.png" width="70%">
-<br>
 
 
 ## Comparison
