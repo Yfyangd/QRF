@@ -1,5 +1,17 @@
-
 ## QRF: Implicit Neural Representations with Quantum Radiance Fields test
+[Paper]() | [Project Page](https://yfyangd.github.io/test/) | [Vedio]()
+
+## NeRF vs QRF
+* NeRF: given a 3D position (x, y, z), viewing direction (θ, ϕ), NeRF produces static and transient colors (r, g, b) and transparency values (σ).
+* QRF: architecture replaces the same task with encoding circuit, parameterized quantum circuits, and quantum activation.
+<img style="float: left;" src="./image/method.png" width="70%">
+<br>
+
+## QRF Architecture
+* Quantum Radiance Fields (QRF) with encoding circuits and quantum circuits produces colors (r, g, b) and transparency values (σ) given a 3D position (x, y, z) and viewing direction (θ, ϕ). Similar to the NeRF architecture, QRF enforces that the predicted σ is independent of view direction. Note that this schematic is a simplified quantum circuit with only 4 rotation gates around the z axis.
+<img style="float: left;" src="./image/architecture.png" width="70%">
+<br>
+
 > **Source of Data:** World Health Organisation (**WHO**), Centers for Disease Control and Prevention (**CDC**)
 
 > **Predict Model:** Seq2Seq (Sequence to Sequence)
