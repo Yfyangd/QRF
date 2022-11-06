@@ -1,5 +1,5 @@
 ## QRF: Implicit Neural Representations with Quantum Radiance Fields test
-[Paper]() | [Project Page](https://yfyangd.github.io/test/) | [Vedio]() | [Code]()
+[Paper]() | [Project Page](https://yfyangd.github.io/QRF/) | [Vedio]() | [Code]()
 
 ## NeRF vs QRF
 * NeRF: given a 3D position (x, y, z), viewing direction (θ, ϕ), NeRF produces static and transient colors (r, g, b) and transparency values (σ).
