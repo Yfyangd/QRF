@@ -39,6 +39,8 @@
 
 ####          NeRF          QRF
 
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=14Rl5hms9deggISA9TXJtLR2JJN7GmEcA" width="40%" title="NeRF">
+
 <iframe frameborder="0" class="juxtapose" width="40%" height="264" src="https://drive.google.com/uc?export=view&id=14Rl5hms9deggISA9TXJtLR2JJN7GmEcA"></iframe>
 <iframe frameborder="0" class="juxtapose" width="40%" height="264" src="./image/c2.gif"></iframe>
 
