@@ -1,5 +1,5 @@
 ## QRF: Implicit Neural Representations with Quantum Radiance Fields test
-[Paper]() | [Project Page](https://yfyangd.github.io/test/) | [Vedio]()
+[Paper]() | [Project Page](https://yfyangd.github.io/test/) | [Vedio]() | [Code]()
 
 ## NeRF vs QRF
 * NeRF: given a 3D position (x, y, z), viewing direction (θ, ϕ), NeRF produces static and transient colors (r, g, b) and transparency values (σ).
@@ -26,3 +26,16 @@
 ## Results on real-world captured data
 <br>
 <iframe frameborder="0" class="juxtapose" width="40%" height="264" src="https://www.youtube.com/embed/80vbhPJXSCM"></iframe>
+<iframe frameborder="0" class="juxtapose" width="40%" height="264" src="https://www.youtube.com/embed/80vbhPJXSCM"></iframe>
+<iframe frameborder="0" class="juxtapose" width="40%" height="264" src="https://www.youtube.com/embed/80vbhPJXSCM"></iframe>
+<iframe frameborder="0" class="juxtapose" width="40%" height="264" src="https://www.youtube.com/embed/80vbhPJXSCM"></iframe>
+<iframe frameborder="0" class="juxtapose" width="40%" height="264" src="https://www.youtube.com/embed/80vbhPJXSCM"></iframe>
+<iframe frameborder="0" class="juxtapose" width="40%" height="264" src="https://www.youtube.com/embed/80vbhPJXSCM"></iframe>
+
+## Results on custom casual capturing
+* Volume rendering: Pine Tree in front of my home
+* Training: 4k iterations
+* Camera position from [COLMAP](https://colmap.github.io/)
+<img style="float: left;" src="./image/c1.gif" width="100%" title="NeRF">
+<img style="float: left;" src="./image/c2.gif" width="100%" title="QRF">
+
