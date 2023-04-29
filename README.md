@@ -46,6 +46,7 @@
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=14Rl5hms9deggISA9TXJtLR2JJN7GmEcA" width="50%" title="NeRF">
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1tXFLgWGWXWS7DucmBS6nvyuT-8T0h_jw" width="50%" title="QRF">
 
+* Eluanbi Lighthouse Model
 <iframe allowtransparency="true" width="485" height="402"  src="//scratch.mit.edu/projects/249ca99c5f7f4ed1a3dc119fd7e5938a/embed?autostart=false"  frameborder="0" allowfullscreen></iframe>
 
 
