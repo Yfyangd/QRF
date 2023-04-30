@@ -46,11 +46,12 @@
 
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=14Rl5hms9deggISA9TXJtLR2JJN7GmEcA" width="50%" title="NeRF">
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1tXFLgWGWXWS7DucmBS6nvyuT-8T0h_jw" width="50%" title="QRF">
-
+<br>
 ### Succulent Plan Potted
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=14Rl5hms9deggISA9TXJtLR2JJN7GmEcA" width="50%" title="NeRF">
-
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1kpr7DtsePvMag7yDCm5TR-rHwDr_iKqs" width="50%" title="NeRF">
+<br>
 ## 3D mesh result
 <div class="sketchfab-embed-wrapper"> <iframe title="Succulent_Plan_Potted" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/ea0fe389e1694d4a9f797700184ba3ed/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/succulent-plan-potted-ea0fe389e1694d4a9f797700184ba3ed?utm_medium=embed&utm_campaign=share-popup&utm_content=ea0fe389e1694d4a9f797700184ba3ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Succulent_Plan_Potted </a> by <a href="https://sketchfab.com/yfyangd?utm_medium=embed&utm_campaign=share-popup&utm_content=ea0fe389e1694d4a9f797700184ba3ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> yfyangd </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ea0fe389e1694d4a9f797700184ba3ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<br>
 
 
