@@ -47,6 +47,6 @@
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1tXFLgWGWXWS7DucmBS6nvyuT-8T0h_jw" width="50%" title="QRF">
 
 * Eluanbi Lighthouse Model
-<iframe allowtransparency="true" width="485" height="402"  src="https://sketchfab.com/3d-models/eluanbi-lighthouse-model-249ca99c5f7f4ed1a3dc119fd7e5938a"  frameborder="0" allowfullscreen></iframe>
+<div class="sketchfab-embed-wrapper"> <iframe title="Scan 2023-04-30T01:21:54.045Z" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/0a09b77ddd0742c2b38b712c4d65e6c0/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/scan-2023-04-30t012154045z-0a09b77ddd0742c2b38b712c4d65e6c0?utm_medium=embed&utm_campaign=share-popup&utm_content=0a09b77ddd0742c2b38b712c4d65e6c0" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Scan 2023-04-30T01:21:54.045Z </a> by <a href="https://sketchfab.com/yfyangd?utm_medium=embed&utm_campaign=share-popup&utm_content=0a09b77ddd0742c2b38b712c4d65e6c0" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> yfyangd </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=0a09b77ddd0742c2b38b712c4d65e6c0" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 
