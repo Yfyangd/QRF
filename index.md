@@ -72,11 +72,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 * 3D mesh result
 <br>
