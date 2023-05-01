@@ -51,6 +51,7 @@
 <br>
 ### Succulent Plan Potted
 * Training: 4k iterations
+<br>
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1kpr7DtsePvMag7yDCm5TR-rHwDr_iKqs" width="50%" title="NeRF">
 <br>
 <br>
@@ -69,12 +70,14 @@
 <br>
 <br>
 * 3D mesh result
+<br>
 <div class="sketchfab-embed-wrapper"> <iframe title="Succulent_Plan_Potted" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/ea0fe389e1694d4a9f797700184ba3ed/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/succulent-plan-potted-ea0fe389e1694d4a9f797700184ba3ed?utm_medium=embed&utm_campaign=share-popup&utm_content=ea0fe389e1694d4a9f797700184ba3ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Succulent_Plan_Potted </a> by <a href="https://sketchfab.com/yfyangd?utm_medium=embed&utm_campaign=share-popup&utm_content=ea0fe389e1694d4a9f797700184ba3ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> yfyangd </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ea0fe389e1694d4a9f797700184ba3ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ### Bench Park
 * Training: 120k iterations
-* <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1kpr7DtsePvMag7yDCm5TR-rHwDr_iKqs" width="50%" title="NeRF">
-* <br>
+<br>
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1kpr7DtsePvMag7yDCm5TR-rHwDr_iKqs" width="50%" title="NeRF">
+<br>
 <br>
 <br>
 <br>
@@ -91,5 +94,6 @@
 <br>
 <br>
 * 3D mesh result
-<div class="sketchfab-embed-wrapper"> <iframe title="Bench at Park" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e5f82af824bd4541ad1ab612b9da7b12/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/bench-at-park-e5f82af824bd4541ad1ab612b9da7b12?utm_medium=embed&utm_campaign=share-popup&utm_content=e5f82af824bd4541ad1ab612b9da7b12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Bench at Park </a> by <a href="https://sketchfab.com/yfyangd?utm_medium=embed&utm_campaign=share-popup&utm_content=e5f82af824bd4541ad1ab612b9da7b12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> yfyangd </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=e5f82af824bd4541ad1ab612b9da7b12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<br>
+<div class="sketchfab-embed-wrapper"> <iframe title="Bench at Park" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/e5f82af824bd4541ad1ab612b9da7b12/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/bench-at-park-e5f82af824bd4541ad1ab612b9da7b12?utm_medium=embed&utm_campaign=share-popup&utm_content=e5f82af824bd4541ad1ab612b9da7b12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Bench at Park </a> by <a href="https://sketchfab.com/yfyangd?utm_medium=embed&utm_campaign=share-popup&utm_content=e5f82af824bd4541ad1ab612b9da7b12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> yfyangd </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=e5f82af824bd4541ad1ab612b9da7b12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
