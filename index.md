@@ -18,7 +18,7 @@
 * We supervise our QRF model by gradient descent using a simple 𝐿2 loss, and use Adam optimizer with a learning rate parameter α=0.001 to keep track of gradient moments over time to redirect the optimization trajectory.
 
 <img style="float: left;" src="./image/o.jpg" width="100%">
-<br><br>
+<br></br>
 
 ## Comparison
 * Volume rendering of Chair, Ship, and Hotdog with training 100k iterations. Compared with NeRF, QRF has faster convergence, higher rendering efficiency, and higher rendering quality under the quantum integration.
@@ -26,9 +26,9 @@
 <br>
 <iframe frameborder="0" class="juxtapose" width="40%" height="466" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b4696cc8-5dc9-11ed-b5bd-6595d9b17862"></iframe>
 <br>
-<iframe frameborder="0" class="juxtapose" width="60%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b9f6451c-5dc9-11ed-b5bd-6595d9b17862"></iframe>
+<iframe frameborder="0" class="juxtapose" width="60%" height="300" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b9f6451c-5dc9-11ed-b5bd-6595d9b17862"></iframe>
 <br>
-<iframe frameborder="0" class="juxtapose" width="60%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a2403828-5dc5-11ed-b5bd-6595d9b17862"></iframe>
+<iframe frameborder="0" class="juxtapose" width="60%" height="300" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a2403828-5dc5-11ed-b5bd-6595d9b17862"></iframe>
 
 ## Results on real-world captured data
 * Camera position from [COLMAP](https://colmap.github.io/)
