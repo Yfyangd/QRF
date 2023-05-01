@@ -76,7 +76,7 @@
 ### Bench Park
 * Training: 120k iterations
 <br>
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1kpr7DtsePvMag7yDCm5TR-rHwDr_iKqs" width="50%" title="NeRF">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJPNj3in8S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 <br>
