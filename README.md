@@ -18,3 +18,9 @@
 * We supervise our QRF model by gradient descent using a simple 𝐿2 loss, and use Adam optimizer with a learning rate parameter α=0.001 to keep track of gradient moments over time to redirect the optimization trajectory.
 
 <img style="float: left;" src="./image/o.jpg" width="100%">
+
+```_config.yml``` : github webpage temp setting
+* theme: jekyll-theme-minimal
+
+```index.md``` : home page
+
