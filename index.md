@@ -1,3 +1,17 @@
+<head>
+	<title>QRF: Implicit Neural Representations with Quantum Radiance Fields</title>
+	<script>
+ window.difyChatbotConfig = { 
+  token: 'vFiKdrj60ZNurQsL'
+ }
+</script>
+<script
+ src="https://udify.app/embed.min.js"
+ id="vFiKdrj60ZNurQsL"
+ defer>
+</script>
+</head>
+
 ## QRF: Implicit Neural Representations with Quantum Radiance Fields
 [Paper](https://arxiv.org/abs/2211.03418) | [Project Page](https://yfyangd.github.io/QRF/) | [Vedio]() | [Code]()
 
