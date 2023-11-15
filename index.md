@@ -1,6 +1,6 @@
 <head>
 	<title>QRF: Implicit Neural Representations with Quantum Radiance Fields</title>
-	<script>
+<script>
  window.difyChatbotConfig = { 
   token: 'vFiKdrj60ZNurQsL'
  }
