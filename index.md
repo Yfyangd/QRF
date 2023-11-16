@@ -1,5 +1,5 @@
 <head>
-	<title>QRF: Implicit Neural Representations with Quantum Radiance Fields</title>
+	<title>Quantum Radiance Fields: A Quantum-Powered Photorealistic Rendering</title>
 <script>
  window.difyChatbotConfig = { 
   token: 'vFiKdrj60ZNurQsL'
@@ -12,7 +12,7 @@
 </script>
 </head>
 
-## QRF: Implicit Neural Representations with Quantum Radiance Fields
+## Quantum Radiance Fields: A Quantum-Powered Photorealistic Rendering
 [Paper](https://arxiv.org/abs/2211.03418) | [Project Page](https://yfyangd.github.io/QRF/) | [Vedio]() | [Code]()
 <br>
 Feel free to use the **chatbot** at the bottom right of the webpage to inquire about any details you'd like to know reqarding this works.
