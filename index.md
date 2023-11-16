@@ -15,7 +15,7 @@
 ## Quantum Radiance Fields: A Quantum-Powered Photorealistic Rendering
 [Paper](https://arxiv.org/abs/2211.03418) | [Project Page](https://yfyangd.github.io/QRF/) | [Vedio]() | [Code]()
 <br>
-Feel free to use the **chatbot** at the bottom right of the webpage to inquire about any details you'd like to know reqarding this works.
+Feel free to use the **chatbot**:dependabot: at the bottom right of the webpage to inquire about any details you'd like to know reqarding this works.
 
 ## NeRF vs QRF
 * NeRF: given a 3D position (x, y, z), viewing direction (θ, ϕ), NeRF produces static and transient colors (r, g, b) and transparency values (σ).
